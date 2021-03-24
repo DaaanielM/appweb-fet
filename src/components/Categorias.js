@@ -2,10 +2,10 @@ import React from 'react';
 import Button from './Button';
 const Categorias = () => {
 	return (
-		<div className='container column is-6'>
+		<div className='container'>
 			<br />
 			<br />
-			<table className='table is-bordered is-striped is-hoverable'>
+			<table className='table container is-6 is-bordered is-striped is-hoverable'>
 				<thead className='has-background-info'>
 					<tr className='hola'>
 						<th

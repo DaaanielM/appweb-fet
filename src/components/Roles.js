@@ -2,10 +2,10 @@ import React from 'react';
 import Button from './Button';
 const Roles = () => {
 	return (
-		<div className='container column is-3'>
+		<div className='container'>
 			<br />
 			<br />
-			<table className='table is-bordered is-striped is-hoverable'>
+			<table className='table container is-3 is-bordered is-striped is-hoverable'>
 				<thead className='has-background-primary'>
 					<tr className='hola'>
 						<th
