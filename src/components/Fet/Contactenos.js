@@ -38,11 +38,7 @@ function Contactenos() {
 							<span className='has-text-danger'>*</span>
 						</label>
 						<div className='control'>
-							<textarea
-								className='textarea'
-								placeholder='Textarea'
-								defaultValue={''}
-							/>
+							<textarea className='textarea' defaultValue={''} />
 						</div>
 					</div>
 					<div className='field is-grouped'>
